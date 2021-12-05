@@ -57,6 +57,6 @@ We receive contributions from both Bugzilla and Github. We have some specificati
 
     In the **description** of the pull request, please mention the **issue number**. That can be done by typing #[issue's number].
 
-    For example: "This pull request fixes #5135".
+    For example: "This pull request fixes #5136".
 
     Github automatically links both issue and pull request to one another.
